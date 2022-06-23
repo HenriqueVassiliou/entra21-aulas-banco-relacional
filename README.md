@@ -1,6 +1,6 @@
 # entra21-aulas-banco-relacional
 
-Repositório com as práticas realizadas em aula (Salvar os scripts)
+Repositório com as práticas realizadas em aula (salvar os scripts)
 
 > Conteúdo prático realizado em sala durante o projeto Entra21
 > Em aditivo oportunidades de aprendizado em:
