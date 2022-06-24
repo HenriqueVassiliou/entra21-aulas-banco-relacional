@@ -1,0 +1,8 @@
+--DLL criando tabela entra21
+CREATE TABLE entra21 (
+id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
+nome_curso TEXT NOT NULL,
+qtdAulas TEXT NOT NULL,
+valor TEXT NOT NULL
+
+);
