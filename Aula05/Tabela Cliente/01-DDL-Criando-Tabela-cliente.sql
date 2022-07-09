@@ -1,0 +1,14 @@
+CREATE TABLE cliente(
+
+id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
+nome TEXT NOT NULL,
+cpf TEXT NOT NULL UNIQUE,
+idade TEXT,
+numeroDeContato TEXT NOT NULL,
+endereço TEXT,
+cadastro TEXT,
+numeroCartao TEXT NOT NULL UNIQUE,
+tipoDePlano TEXT NOT NULL
+
+
+);
